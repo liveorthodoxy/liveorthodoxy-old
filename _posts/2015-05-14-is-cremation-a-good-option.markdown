@@ -4,6 +4,7 @@ title: "Is Cremation a Good Option?"
 date: 2015-05-14
 modified: 2015-05-14 
 description: "A Christian perspective on death and burial"
+tags: [Feast, Pentecost]
 image: 
   feature: /posts/orthodox-cemetery.jpg
   credit:

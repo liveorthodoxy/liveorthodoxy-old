@@ -11,6 +11,8 @@ image:
 share:
 ---
 
+Christmas is an exciting time and it is so easy to loose focus on why we're celebrating. 
+
 Things are changing, the hot days of summer are gone and people have started pulling out the sweaters and coats, more so this year than most thanks to the polar vortex that brought some lovely snow to us here in Tulsa this weekend. This weather was perfectly timed with the start of the Fast of the Nativity to get me to thinking about Christmastime and how we as Orthodox Christians engage during this time year.
 
 Growing up, Christmas was my favorite time of the year. The holiday was a really BIG event in our evangelical/charismatic church. We would do a candle light service every year where we would sing hymns. This felt Christmassy to me. Then when I was in high school, I attended a candle light mass at a Catholic church with a friend and that was pretty cool too. The churches were all decorated with greenery, big nativity scenes and we had the carols. I associated all ofthese things and songs with Christmas. When I became Orthodox, I really missed the way I had celebrated Christmas growing up a lot of that and really thought out how to reconcile that celebration with my new-found Orthodox celebration.Thirteen Christmases later, I have a few thoughts on this for others who have joined the Church or are looking into it. While this was originally meant to be a single blog post, like so many other times in my life, I found myself adding more and more and more, so this week I’m going to focus on Advent and Christmas music with more to come next week.this will be continued into next week.
