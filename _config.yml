@@ -29,7 +29,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-8688442-2  
+google_analytics: UA-63669606-1  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify: meta name="msvalidate.01" content="334A573D41B58FFA48FAAB57905AD092"/         
