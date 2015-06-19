@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.liveorthodoxy.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.liveorthodoxy.com" />
-<updated>2015-06-18T16:55:55-05:00</updated>
+<updated>2015-06-19T07:58:39-05:00</updated>
 <id>http://www.liveorthodoxy.com/</id>
 <author>
   <name>Thom Crowe</name>
@@ -17,8 +17,8 @@
   <title type="html"><![CDATA[12 Things I Love About Orthodoxy]]></title>
  <link rel="alternate" type="text/html" href="http://www.liveorthodoxy.com/12-things-i-love-about-orthodoxy/" />
   <id>http://www.liveorthodoxy.com/12-things-i-love-about-orthodoxy</id>
-  <published>2015-06-18T16:55:21-05:00</published>
-  <updated>2015-06-18T16:55:21-05:00</updated>
+  <published>2015-06-19T07:58:29-05:00</published>
+  <updated>2015-06-19T07:58:29-05:00</updated>
   <author>
     <name>Thom Crowe</name>
     <uri>http://www.liveorthodoxy.com</uri>
@@ -117,8 +117,9 @@
 
 &lt;p&gt;The same is true of so many aspects of our lives - our services, our readings, our icons, confession, fasting, the lives of the saints - I could go on and on. The Church, as the body of Christ, is the great hospital for us on earth and is here to take care of us, even if we don’t know what we need.&lt;/p&gt;
 
+&lt;p&gt;I know some of these things may not sound earth shattering, but believe me it is. It’s different within Orthodoxy, it’s healing, it helps us to become whole, it continues the work of Christ in restoring humanity through the guidance and power of the Holy Spirit.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.liveorthodoxy.com/12-things-i-love-about-orthodoxy/&quot;&gt;12 Things I Love About Orthodoxy&lt;/a&gt; was originally published by Thom Crowe at &lt;a href=&quot;http://www.liveorthodoxy.com&quot;&gt;Live Orthodoxy&lt;/a&gt; on June 18, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.liveorthodoxy.com/12-things-i-love-about-orthodoxy/&quot;&gt;12 Things I Love About Orthodoxy&lt;/a&gt; was originally published by Thom Crowe at &lt;a href=&quot;http://www.liveorthodoxy.com&quot;&gt;Live Orthodoxy&lt;/a&gt; on June 19, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -227,32 +228,6 @@ St. Paul prays, that our “and I pray God your whole spirit and soul and &lt;st
 &lt;p&gt;Our bodies are precious, created and fashioned by God as part of who we are in His image and likeness. We were not made to be seperated from our bodies and will once again be reunited with them for all of eternity. Maybe they are something we should plan to give honor and respect to, even after we’ve fallen asleep in the hope of the resurrection.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://www.liveorthodoxy.com/is-cremation-a-good-option/&quot;&gt;Is Cremation a Good Option?&lt;/a&gt; was originally published by Thom Crowe at &lt;a href=&quot;http://www.liveorthodoxy.com&quot;&gt;Live Orthodoxy&lt;/a&gt; on May 14, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Octopress Cheat]]></title>
- <link rel="alternate" type="text/html" href="http://www.liveorthodoxy.com/octopress-cheat/" />
-  <id>http://www.liveorthodoxy.com/octopress-cheat</id>
-  <published>2015-04-30T18:00:06-05:00</published>
-  <updated>2015-04-30T18:00:06-05:00</updated>
-  <author>
-    <name>Thom Crowe</name>
-    <uri>http://www.liveorthodoxy.com</uri>
-    <email>thom@thomcrowe.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;&lt;em&gt;To Deploy&lt;/em&gt; jekyll build then octopress deploy
-&lt;em&gt;To Keep Source Updated&lt;/em&gt; normal git commit
-&lt;em&gt;To test drafts jekyll s&lt;/em&gt; –drafts&lt;/p&gt;
-
-&lt;p&gt;So let’s say you have a draft titled “Some stupid idea I have”, you can run &lt;code&gt;octopress publish stupid&lt;/code&gt; and it will convert the draft into a post&lt;/p&gt;
-
-&lt;p&gt;then &lt;code&gt;octopress unpublish stupid&lt;/code&gt; will do the oposites&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://www.liveorthodoxy.com/octopress-cheat/&quot;&gt;Octopress Cheat&lt;/a&gt; was originally published by Thom Crowe at &lt;a href=&quot;http://www.liveorthodoxy.com&quot;&gt;Live Orthodoxy&lt;/a&gt; on April 30, 2015.&lt;/p&gt;
   </content>
 </entry>
 

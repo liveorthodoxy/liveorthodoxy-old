@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "12 Things I Love About Orthodoxy"
+date: 2015-06-19T07:58:29-05:00
 description: "The heart of Orthodoxy changes our hearts"
 tags: [orthodoxy]
 image:
@@ -102,5 +103,7 @@ Last week, a good friend of mine, our parish chanter, fell in asleep in the Lord
 The same is true of things like fasting. A mother gives her child the medicine he or she needs. I think we can all remember a time from childhood when we were sick and our mom gave us something that didn't taste very good, but, in the end, it made us better.  The same is true for the Church. When I started in a prescribed fast, it was odd. At first, it was a challenge to over come, I guess you could say I gamified fasting - if I do this, this and this I win fasting. Then it was something I didn't do for a long time or I would look for loopholes around fasting. But, when I started fasting, as tough as it was, it began to make sense. I had to put in the effort the 
 
 The same is true of so many aspects of our lives - our services, our readings, our icons, confession, fasting, the lives of the saints - I could go on and on. The Church, as the body of Christ, is the great hospital for us on earth and is here to take care of us, even if we don’t know what we need.
+
+
 
 I know some of these things may not sound earth shattering, but believe me it is. It’s different within Orthodoxy, it’s healing, it helps us to become whole, it continues the work of Christ in restoring humanity through the guidance and power of the Holy Spirit. 
