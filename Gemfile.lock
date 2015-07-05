@@ -90,5 +90,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
-  octopress
+  octopress (~> 3.0)
   sass

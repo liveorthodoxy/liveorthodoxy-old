@@ -6,7 +6,7 @@ image:
   credit: 
   creditlink: 
 comments: false
-modified: 2014-12-24
+modified: 2015-05-24
 share: false
 ---
 Thanks for visiting, I'm Thom. If you have questions about Orthodoxy,you should visit an Orthodox parish near you. If you need help finding one, let me know.
