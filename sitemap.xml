@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.liveorthodoxy.com/giving-thanks/</loc>
+    <lastmod>2016-11-24T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/forget-being-politically-correct/</loc>
+    <lastmod>2016-11-22T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/sharing-the-faith/</loc>
+    <lastmod>2016-10-16T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/welcome-to-parenthood/</loc>
+    <lastmod>2016-03-27T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/a-living-liturgical-tradition/</loc>
+    <lastmod>2016-02-09T17:58:02-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/this-i-believe/</loc>
+    <lastmod>2016-01-02T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/mary-did-you-know/</loc>
+    <lastmod>2015-12-16T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/the-most-wonderful-time-of-the-year/</loc>
+    <lastmod>2015-11-26T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/keeping-christ-in-christmas/</loc>
+    <lastmod>2015-11-17T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/12-things-i-love-about-orthodoxy/</loc>
+    <lastmod>2015-06-19T07:58:29-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.liveorthodoxy.com/12-things-i-love-about-orthodoxy/</loc>
     <lastmod>2015-06-19T07:58:29-05:00</lastmod>
   </url>
@@ -11,6 +51,18 @@
   <url>
     <loc>http://www.liveorthodoxy.com/is-cremation-a-good-option/</loc>
     <lastmod>2015-05-14T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/switching-to-jekyll/</loc>
+    <lastmod>2015-04-01T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/were-adopting/</loc>
+    <lastmod>2015-03-13T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.liveorthodoxy.com/my-first-post-in-jekyll/</loc>
+    <lastmod>2015-02-28T00:00:00-06:00</lastmod>
   </url>
   <url>
     <loc>http://www.liveorthodoxy.com/christian-worship-or-pagan-worship/</loc>
@@ -34,22 +86,22 @@
   </url>
   <url>
     <loc>http://www.liveorthodoxy.com/404.html</loc>
-    <lastmod>2015-07-10T23:08:38-05:00</lastmod>
+    <lastmod>2016-11-29T11:29:27-06:00</lastmod>
   </url>
   <url>
     <loc>http://www.liveorthodoxy.com/posts/</loc>
-    <lastmod>2015-07-10T23:08:38-05:00</lastmod>
+    <lastmod>2016-11-29T11:29:27-06:00</lastmod>
   </url>
   <url>
     <loc>http://www.liveorthodoxy.com/tags/</loc>
-    <lastmod>2015-07-10T23:08:38-05:00</lastmod>
+    <lastmod>2016-11-29T11:29:27-06:00</lastmod>
   </url>
   <url>
     <loc>http://www.liveorthodoxy.com/</loc>
-    <lastmod>2015-07-10T23:08:38-05:00</lastmod>
+    <lastmod>2016-11-29T11:29:27-06:00</lastmod>
   </url>
   <url>
     <loc>http://www.liveorthodoxy.com/about/</loc>
-    <lastmod>2015-07-10T23:08:38-05:00</lastmod>
+    <lastmod>2016-11-29T11:29:27-06:00</lastmod>
   </url>
 </urlset>
