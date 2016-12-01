@@ -1,17 +1,13 @@
 ---
 layout: post
 title: What Is Advent All About?
-modified:
-categories:
 description:
 tags: [Nativity, Fasting, Advent, Christmas]
-image: /posts/advent.jpg
-  feature:
+modified:  2016-11-24 11:34:25
+image:
+  feature: /posts/advent.jpg
   credit:
   creditlink:
-comments:
-share:
-date: 2016-11-30T21:11:47-06:00
 ---
 
 The Advent season is upon us. For us Orthodox Christians, we are over 2 weeks into our time to prepare for Christmas; our Nativity Fast begins 40 days before Christmas on November 15th. This year for some reason, I've been asked quite a few times why we fast in preparation for Christmas, which is strange because I haven't heard that question about it in years. Since it has come up, I've been thinking more about the fast period and what it means to me.
