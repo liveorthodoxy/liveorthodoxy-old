@@ -3,16 +3,16 @@ layout: post
 title: “Mary Did You Know?“
 description: Why does Mary matter in the nativity story?
 tags: christmas, mary, mary did you know, carol, theotokos
-modified:  2015-12-16 08:04:25
+modified:  2016-12-02 08:40:25
 image:
   feature: /posts/maryknew.jpg
-  credit: 
-  creditlink: 
+  credit:
+  creditlink:
 ---
 
 ##It's Just a Christmas Song
 
-I’ve had a few conversations with people this year about the song _”Mary Did You Know?”_  and it's been interesting to hear how others feel about the song.  I’ve never really been a fan, namely because of how overly sentimental it feels to me, but this year I gave some thought to the meaning behind the song. 
+I’ve had a few conversations with people this year about the song _”Mary Did You Know?”_  and it's been interesting to hear how others feel about the song.  I’ve never really been a fan, namely because of how overly sentimental it feels to me, but this year I gave some thought to the meaning behind the song.
 
 ##So What's Wrong With It?
 
@@ -35,3 +35,7 @@ What we teach about Mary is also direct reflection of what we teach about Christ
 When we diminish Mary, who she is or her knowledge of what she agreed to, we begin to diminish who Christ is. Without a doubt, Mary knew she kissed the face of God, she knew who Christ was and what His birth meant, both for her and for all of humanity.
 
 With that, I join the angel and St. Elizabeth in singing,  “Hail Mary, full of grace, the Lord is with you. Blessed are you among women and blessed is the fruit of your womb."
+
+Update and post script:
+
+For another great perspective, check out Tony Breland's article *[Mary did you know? Of course she did] (http://findingthetruefaith.com/mary-did-you-know-of-course-she-did/?utm_source=liveorthodoxy&utm_campaign=mary-did-you-know&utm_medium=blog).

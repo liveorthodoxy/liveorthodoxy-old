@@ -9,7 +9,7 @@ url: http://www.liveorthodoxy.com
 
 # Owner/author information
 owner:
-  name:           Thom Crowe  
+  name:           Deacon Thom Crowe
   avatar:         avatar.jpg
   bio:            "Happily married to @christinecrowe, Subdeacon at @StAntonyTulsa, foodie/home chef, & displaced Houstonian in Tulsa."
   email:          thom@thomcrowe.com
@@ -18,21 +18,21 @@ owner:
   instagram:      thomcrowe
   facebook:       thomcrowe
   github:         thomcrowe
-  stackexchange:  
-  linkedin:       
-  flickr:         
-  tumblr:         
+  stackexchange:
+  linkedin:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +ThomCrowe
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-63669606-1  
-google_verify:      
+google_analytics: UA-63669606-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: meta name="msvalidate.01" content="334A573D41B58FFA48FAAB57905AD092"/         
+bing_verify: meta name="msvalidate.01" content="334A573D41B58FFA48FAAB57905AD092"/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
