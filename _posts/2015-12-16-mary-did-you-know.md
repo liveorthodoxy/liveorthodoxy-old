@@ -38,4 +38,4 @@ With that, I join the angel and St. Elizabeth in singing,  “Hail Mary, full of
 
 Update and post script:
 
-For another great perspective, check out Tony Breland's article *[Mary did you know? Of course she did] (http://findingthetruefaith.com/mary-did-you-know-of-course-she-did/?utm_source=liveorthodoxy&utm_campaign=mary-did-you-know&utm_medium=blog).
+For another great perspective, check out Tony Breland's article *[Mary did you know? Of course she did] (http://findingthetruefaith.com/mary-did-you-know-of-course-she-did/?utm_source=liveorthodoxy&utm_campaign=mary-did-you-know&utm_medium=blog).*
