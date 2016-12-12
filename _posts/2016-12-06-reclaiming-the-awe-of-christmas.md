@@ -5,7 +5,7 @@ description:
 tags: christmas, Nativity, incarnation, Christ, Theotokos
 modified:  2016-12-02 08:40:25
 image:
-  feature: /posts/reclaiming.jpg
+  feature: /posts/incarnation.jpg
   credit:
   creditlink:
 ---
