@@ -33,7 +33,7 @@ The more disturbing omission to me was the lack of any mention of the Incarnatio
 
 The Church teaches us that if Christ had not been fully God and fully man, we'd have no salvation. Christ humbled Himself from His place in Heaven, condescended as the second divine person of the Holy Trinity and the Eternal Logos took on humanity, took on flesh, took on matter so He could redeem the world. Let that sink in for a minute, even if this is something you know, honestly reflect upon that reality. God became human and, when He ascended back to Heaven, to sit at the right hand of the Father, He ascended in the flesh, taking humanity into heaven.
 
-God chose Mary, a young girl to bare the God of heaven, to contain within her womb the uncontainable God who made her more spacious than the heavens and become the _Theotokos_, the Mother of God. These are important doctrinal beliefs for Christianity, not because of what they say about Mary, but because of what it ultimately means for who Christ is.
+God chose Mary, a young girl to bear the God of heaven, to contain within her womb the uncontainable God who made her more spacious than the heavens and become the _Theotokos_, the Mother of God. These are important doctrinal beliefs for Christianity, not because of what they say about Mary, but because of what it ultimately means for who Christ is.
 
 This was such a crucial event that the heavens were altered and offered a start to lead the Magi to Christ. The angels came in a glorious chorus to proclaim the glad tidings of Christ's birth. What else could cause such a great cosmic disruption throughout the created universe?
 
