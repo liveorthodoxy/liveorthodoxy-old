@@ -5,7 +5,7 @@ description:
 tags: christmas, Nativity, incarnation, Christ, Theotokos
 modified:  2016-12-02 08:40:25
 image:
-  feature: /posts/incarnation.jpg
+  feature: /posts/reclaiming.jpg
   credit:
   creditlink:
 ---
@@ -19,7 +19,7 @@ This time of year is my favorite; everyone seems a bit more cheerful, we hear wo
 
 It would be easy to talk about the secularization of the birth of Christ, it's hard not to notice it everywhere we go, but that's not what I was thinking about then. It's true that most movies we watch on TV follows a storyline where the protagonist/protagonists have a warm and fuzzy revelation at the end that Christmas isn't about what we get or what we want, but instead is about love, family, giving, charity, sharing, etc. That's society's view, but the Christian world should be held to a higher standard, one that, in my general observation, isn't happening. This is starkly contrasted to the understanding of the Church; just look at what St. Gregory of Nyssa writes on the nativity:
 
->> _The very Son of God, older than the ages, the invisible, the incomprehensible, the incorporeal, the beginning of beginning, the light of light, the fountain of life and immortality, the image of the archetype, the immovable seal, the perfect likeness, the definition and word of the Father: he it is who comes to his own image and takes our nature for the good of our nature, and unites himself to an intelligent soul for the good of my soul, to purify like by like._ 
+>> _The very Son of God, older than the ages, the invisible, the incomprehensible, the incorporeal, the beginning of beginning, the light of light, the fountain of life and immortality, the image of the archetype, the immovable seal, the perfect likeness, the definition and word of the Father: he it is who comes to his own image and takes our nature for the good of our nature, and unites himself to an intelligent soul for the good of my soul, to purify like by like._
 
 ### The Christmas Train
 
